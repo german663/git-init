@@ -1,2 +1,2 @@
 # git-init
-Proyecto inicial
+primer commit de practica 
